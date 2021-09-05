@@ -10,7 +10,7 @@ function Thumbnail({ result }) {
         layout="responsive"
         height={1080}
         width={1920}
-        src={`${BASE_URL}${result.backdrop_path || result.poster_path} `}
+        src={`${BASE_URL}${result.backdrop_path || result.poster_path}` || `${BASE_URL}${result.poster_path}` }
         alt=""
       />
 
