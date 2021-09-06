@@ -3,11 +3,9 @@ This Project is deploy on vercel you can see this over here link:https://hulu-cl
 
 to run this project on your computer:
 
-(1) first create your react file 
+(1) first create your Next file 
 
-(2) open the src file in your computer and then delete every thing 
+(2) clone this project on src folder 
 
-(3) clone this project on src folder 
-
-(4) now on your terminal write npm install
+(3) now on your terminal write npm install
 
